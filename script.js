@@ -1,4 +1,4 @@
-const apiKey = '63d2e0b3827c6e4649dd7fb99c4a2b06'; // Replace with your actual API key
+const apiKey = 'Your api key'; // Replace with your actual API key
 
 const iconMap = {
   '01d': 'wi-day-sunny',
